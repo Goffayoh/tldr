@@ -1,0 +1,1 @@
+data class LinkDto(val token: String, val url: String)
